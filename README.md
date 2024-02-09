@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student<br>🌱 I’m currently learning Frontend Development<br>💬 My name is Okan I am 22 years old<br>⚡ I love books, history, and aviation. I also enjoy working with electronic programming and tinkering with Android
+🔭 I’m currently student<br>🌱 I’m currently learning Frontend Development<br>💬 My name is Okan I am 23 years old<br>⚡ I love books, history, and aviation. I also enjoy working with electronic programming and tinkering with Android
 
 
 ## 🌐 Socials:
